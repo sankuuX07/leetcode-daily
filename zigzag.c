@@ -3,7 +3,4 @@
 
 iygfierg
 egtregw
-gtgwretg
-wtgw
-grwgg
-rwg
+g
