@@ -15,15 +15,7 @@ char* convert(char* s, int numRows) {
     char* result = malloc(n + 1);
     if (!result) return NULL;
 
-    int index = 0;
-    int cycle = 2 * numRows - 2;
-
-    for (int row = 0; row < numRows; row++) {
-        for (int j = row; j < n; j += cycle) {
-            result[index++]
-                diagonal < n) {
-                result[index++] = s[diagonal];
-            }
+    int index
         }
     }
 
