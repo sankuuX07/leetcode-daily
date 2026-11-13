@@ -9,8 +9,4 @@ char* convert(char* s, int numRows) {
         char* r
     int index
         }
-    }
-
-    result[index] = '\0';
-    return result;
-}
+    
