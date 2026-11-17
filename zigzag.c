@@ -18,9 +18,6 @@ char* convert(char* s, int numRows) {
     int index = 0;
     int cycle = 2 * numRows - 2;
 
-    for (int row = 0; row < numRows; row++) {
-        for (int j = row; j < n; j += cycle) {
-            result[index++] = s[j];
 
             int diagonal = j + cycle - 2 * row;
 
